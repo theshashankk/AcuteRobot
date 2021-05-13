@@ -105,13 +105,13 @@ Examples:
 
 # Start
 START_STRING = """
-Hey {}, I'm acutebot and i can help you to get \
+Yoo!! {}, This Is Coffin X anime and i can help you to get \
 information about your favorite movies, tv and anime shows, you can also download \
 music & can view song lyrics using me! Just click the button \
 below to get started with list of possible commands...
 
 You can also search movies, tvshows & \
-anime inline! just type <pre>@acutebot</pre> in \
+anime inline! just type <pre>@CoffinXanimeBot</pre> in \
 your message box and follow the instructions.
 
 And don't forget to smile, atleast once in a while ;)
@@ -122,16 +122,16 @@ START_STRING_GRP = "Hmmm?"
 # About
 ABOUT_STR = f"""
 I'm fully written in \
-Python3 by <a href="tg://user?id=894380120">starry</a>, \
+Python3 by <a href="t.me/coffinxsupport">CoffinXsupport</a>, \
 feel free to report him if you find any rough edge inside me.
 
-<b>×</b> Bot version : <pre>{__version__}</pre>
-<b>×</b> Python version : <pre>{python_version()}</pre>
-<b>×</b> Library version : <pre>PTB {_libv_}</pre>
-<b>×</b> Movies & TV data : <pre>themoviedb.org</pre>
-<b>×</b> Anime data from : <pre>kitsu.io</pre>
-<b>×</b> Music data from : <pre>deezer.com</pre>
-<b>×</b> Lyrics data from : <pre>genius.com</pre>
+<b>×</b> 𝙱𝙾𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : <pre>{__version__}</pre>
+<b>×</b> 𝙿𝚈𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : <pre>{python_version()}</pre>
+<b>×</b> 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : <pre>PTB {_libv_}</pre>
+<b>×</b> 𝙼𝙾𝚅𝙸𝙴 & 𝚃𝚅 : <pre>themoviedb.org</pre>
+<b>×</b> 𝙰𝙽𝙸𝙼𝙴 𝙳𝙰𝚃𝙰 𝙵𝚁𝙾𝙼 : <pre>kitsu.io</pre>
+<b>×</b> 𝙼𝚄𝚂𝙸𝙲 𝙳𝙰𝚃𝙰 𝙵𝚁𝙾𝙼 : <pre>deezer.com</pre>
+<b>×</b> 𝙻𝚈𝚁𝙸𝙲𝚂 𝙳𝙰𝚃𝙰 𝙵𝚁𝙾𝙼 : <pre>genius.com</pre>
 
 If you enjoyed using me & wanna support my creator \
 hit the donate button below, since he's just a student so \
@@ -205,7 +205,7 @@ STATS = """
 """
 
 # Greet
-GREET = "Hey {}! Thank you for adding me in {} :)"
+GREET = "𝚈𝙾𝙾!! 𝚆𝙷𝙰𝚃𝚂 𝚄𝙿 𝙶𝚄𝚈𝚂!! 𝚃𝙷𝙽𝙺𝚂 𝙵𝙾𝚁 𝙰𝙳𝙳𝙸𝙽𝙶 𝙼𝙴 𝙸𝙽 {} :)"
 
 # Lyrics
 SONGNAME = "Please tell me name of the song you want lyrics for."
