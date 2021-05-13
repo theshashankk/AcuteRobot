@@ -36,7 +36,7 @@ def authorize(update, user_id):
         )
 
     else:
-        msg.reply_text("Something went wrong! Please report to @starryboi")
+        msg.reply_text("𝙾𝙾𝙿𝚂... 𝚂𝙾𝙼𝙴𝚃𝙷𝙸𝙽𝙶 𝚆𝙴𝙽𝚃 𝚆𝙾𝚁𝙽𝙶!! 𝚁𝙴𝙿𝙾𝚁𝚃 𝙰𝚃 @CoffinXsupport")
 
 
 @run_async
