@@ -85,7 +85,7 @@ def subsbutton(update, context):
 
     dl_content = BytesIO(r.get(dl_link).content)
     dl_content.name = dl_content_name
-    context.bot.sendDocument(chat.id, dl_content, caption="Subtitle via @acutebot 🎸")
+    context.bot.sendDocument(chat.id, dl_content, caption="𝚂𝚄𝙱𝚂𝚃𝙸𝚃𝙻𝙴𝚂 𝚅𝙸𝙰 𝙲𝙾𝙵𝙵𝙸𝙽 𝚇 𝙰𝙽𝙸𝙼𝙴 𝙱𝙾𝚃🎸")
     tm.delete()
 
 
