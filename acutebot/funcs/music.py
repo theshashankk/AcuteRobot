@@ -131,7 +131,7 @@ def sendmusic(update, context):
             context.bot.sendAudio(
                 chat.id,
                 open(file, "rb"),
-                caption="Via @acutebot 🎸",
+                caption="VIA COFFIN X ANIME BOT 🎸",
                 title=title,
                 performer=artist,
                 duration=duration,
@@ -157,7 +157,7 @@ def send_file_pyro(bot_token, file, chatid, title, artist, duration):
         bot.send_audio(
             chat_id=chatid,
             audio=open(file, "rb"),
-            caption="Via @acutebot 🎸",
+            caption="VIA COFFIN X ANIME BOT 🎸",
             title=title,
             duration=duration,
             performer=artist,
